@@ -6,6 +6,7 @@ Configurar o .env
 2 - DB_DATABASE= Colocar nome do seu data base.
 3 - DB_PASSWORD= Colocar Senha do seu postgres.
 4 - verificar se a porta está igual.
+5 - Mover as pastas: {cartas, icons e persnagens}, para storage\app\public
 
 Comandos:
 
